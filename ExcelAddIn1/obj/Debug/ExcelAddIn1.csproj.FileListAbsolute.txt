@@ -1,0 +1,15 @@
+C:\Users\colin\source\repos\ExcelAddIn1\ExcelAddIn1\bin\Debug\ExcelAddIn1.dll
+C:\Users\colin\source\repos\ExcelAddIn1\ExcelAddIn1\bin\Debug\ExcelAddIn1.pdb
+C:\Users\colin\source\repos\ExcelAddIn1\ExcelAddIn1\bin\Debug\ExcelAddIn1.dll.manifest
+C:\Users\colin\source\repos\ExcelAddIn1\ExcelAddIn1\bin\Debug\ExcelAddIn1.vsto
+C:\Users\colin\source\repos\ExcelAddIn1\ExcelAddIn1\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\colin\source\repos\ExcelAddIn1\ExcelAddIn1\obj\Debug\ExcelAddIn1.csproj.AssemblyReference.cache
+C:\Users\colin\source\repos\ExcelAddIn1\ExcelAddIn1\obj\Debug\ExcelAddIn1.Properties.Resources.resources
+C:\Users\colin\source\repos\ExcelAddIn1\ExcelAddIn1\obj\Debug\ExcelAddIn1.csproj.GenerateResource.cache
+C:\Users\colin\source\repos\ExcelAddIn1\ExcelAddIn1\obj\Debug\ExcelAddIn1.csproj.CoreCompileInputs.cache
+C:\Users\colin\source\repos\ExcelAddIn1\ExcelAddIn1\obj\Debug\ExcelAdd.0ACBDDA0.Up2Date
+C:\Users\colin\source\repos\ExcelAddIn1\ExcelAddIn1\obj\Debug\ExcelAddIn1.dll
+C:\Users\colin\source\repos\ExcelAddIn1\ExcelAddIn1\obj\Debug\ExcelAddIn1.pdb
+C:\Users\colin\source\repos\ExcelAddIn1\ExcelAddIn1\obj\Debug\ExcelAddIn1.Hevy.resources
+C:\Users\colin\source\repos\ExcelAddIn1\ExcelAddIn1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\colin\source\repos\ExcelAddIn1\ExcelAddIn1\bin\Debug\Newtonsoft.Json.xml
